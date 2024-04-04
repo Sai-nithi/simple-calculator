@@ -24,7 +24,7 @@ To run the calculator project locally, follow these steps:
 
 ## Screenshots
 
-![Calculator Screenshot](/calculator.jpg)
+![Calculator Screenshot](/sample_output.png)
 
 ## Contributing
 
