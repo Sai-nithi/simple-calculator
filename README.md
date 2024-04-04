@@ -1,4 +1,4 @@
-![Screenshot 2024-04-04 122437](https://github.com/Sai-nithi/simple-calculator/assets/142419254/fd54af86-7f25-4043-b2df-e120a81c1c0e)# simple-calculator
+## Simple calculator
 
 This is a simple calculator project implemented using HTML, CSS, and JavaScript.
 
